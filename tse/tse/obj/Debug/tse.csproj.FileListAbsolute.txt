@@ -1,0 +1,8 @@
+C:\Users\cj3016668\source\repos\tse\tse\bin\Debug\tse.exe.config
+C:\Users\cj3016668\source\repos\tse\tse\bin\Debug\tse.exe
+C:\Users\cj3016668\source\repos\tse\tse\bin\Debug\tse.pdb
+C:\Users\cj3016668\source\repos\tse\tse\obj\Debug\tse.csproj.AssemblyReference.cache
+C:\Users\cj3016668\source\repos\tse\tse\obj\Debug\tse.csproj.SuggestedBindingRedirects.cache
+C:\Users\cj3016668\source\repos\tse\tse\obj\Debug\tse.csproj.CoreCompileInputs.cache
+C:\Users\cj3016668\source\repos\tse\tse\obj\Debug\tse.exe
+C:\Users\cj3016668\source\repos\tse\tse\obj\Debug\tse.pdb
